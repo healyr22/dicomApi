@@ -10,3 +10,6 @@ Apis:
 `/upload`
 `/extract-header`
 `/convert-to-png`
+
+System Design Diagram:
+![alt text](https://github.com/healyr22/dicomApi/blob/main/system_design.png?raw=true)
